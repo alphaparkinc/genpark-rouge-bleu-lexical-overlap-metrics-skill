@@ -1,0 +1,6 @@
+name: genpark-rouge-bleu-lexical-overlap-metrics-skill
+version: 1.0.0
+description: Pure Python ROUGE-L and BLEU n-gram lexical overlap precision, recall, and F1 metrics calculation
+command: python
+args:
+  - mcp_server.py
