@@ -1,0 +1,20 @@
+{
+  "name": "genpark-rouge-bleu-lexical-overlap-metrics-skill",
+  "version": "1.0.0",
+  "description": "Pure Python ROUGE-L and BLEU n-gram lexical overlap precision, recall, and F1 metrics calculation",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "rouge-l",
+    "bleu-score",
+    "nlp-metrics",
+    "evaluation",
+    "lexical-overlap",
+    "python-standard-library",
+    "agent-skills",
+    "benchmark",
+    "text-similarity",
+    "summarization-eval"
+  ]
+}
